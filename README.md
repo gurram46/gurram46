@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurram46" alt="gurram46" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data Analysis**
+- 🌱 I’m currently learning **Big Data Analysis**&**GenAI**
 
 - 👯 I’m looking to collaborate on **Any ML/DS Projects**
 
