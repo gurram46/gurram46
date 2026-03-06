@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurram46&" alt="gurram46" /></p>
 
+
+[![GitHub Stats](https://ghstats.dev/api/card?username=gurram46&hide_title=true&border_radius=5)](https://github.com/rowkav09/GitHub-profile-stats)
+
