@@ -1,5 +1,3 @@
-<h1 align="center">I'm Batman  </h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/gurram46/gurram46/main/batman-tdk-1.svg" width="180" alt="Batman Symbol" />
 </p>
