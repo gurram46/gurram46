@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurram46/gurram46/main/batman-tdk-1.svg" width="180" alt="Batman Symbol" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=I%27m%20Batman&fontAlign=50&fontAlignY=40&color=0:0d0d0d,50:2b0000,100:8b0000&fontColor=f5f5f5&desc=Engineer%20%7C%20Builder%20%7C%20Chaos%20Manager&descAlign=50&descAlignY=65" alt="Batman Banner" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gurram46/gurram46/main/batman-tdk-1.svg" width="180" alt="Batman Symbol" />
+</p>
 <p align="center">
   <b>Building software in the dark, shipping before sunrise.</b>
 </p>
