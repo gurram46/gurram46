@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff4d4d" alt="LinkedIn" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ff4d4d" alt="Portfolio" />
-  </a>
   <a href="sandeepgurram456@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d4d" alt="Email" />
   </a>
